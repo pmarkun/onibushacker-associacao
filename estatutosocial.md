@@ -91,7 +91,7 @@ Reunir-se-á  no ínicio do ano em data deliberada através da lista de emails,
 
 Parágrafo Primeiro -  As assembléias gerais poderão ser ordinárias ou extraordinárias, e  serão convocadas, por qualquer Associado, mediante mensagem publicada na  lista de emails da Associação onde constará: local, dia, mês, ano, hora da primeira e segunda chamada, ordem do dia, e o nome de quem a  convocou;
 
-Parágrafo Segundo  - Considerar-se-à convocada a Assembléia Geral no momento em que sete  ou mais membros manifestarem, em resposta à mensagem - doravante  denominada 'thread' - proposta por quem a convocou ciência da convocação e anuir ao debate acerca da matéria proposta para deliberação.
+Parágrafo Segundo  - Considerar-se-à convocada a Assembléia Geral no momento em que 1/5 dos associados se manifestarem, em resposta à mensagem - doravante  denominada 'thread' - proposta por quem a convocou ciência da convocação e anuir ao debate acerca da matéria proposta para deliberação.
 
 Parágrafo Terceiro - Toda e qualquer deliberação da Associação será tomada pundonorosamente por escrutínio público, sendo vedada qualquer forma de deliberação por voto secreto, sob pena de infração ao princípio da transparência sobre o qual se funda esta organização.
  
