@@ -112,7 +112,8 @@ Parágrafo único - As decisões da diretoria deverão ser tomadas por maioria d
 ## ARTIGO 15 - COMPETE AO PRESIDENTE
 1. Representar a Associação ativa e passivamente, perante os órgãos  públicos, judiciais e extrajudiciais, inclusive em juízo ou fora dele, podendo delegar poderes e constituir procuradores e advogados para o fim que julgar necessário;
 2. Convocar e presidir as reuniões da Diretoria Executiva;
-3. Convocar e presidir as Assembléias Ordinárias e Extraordinárias;
+3. Presidir as Assembléias Ordinárias.
+ e Extraordinárias;
 4. Juntamente com o tesoureiro, abrir e manter contas bancárias, assinar cheques e documentos bancários e contábeis;
 5. Organizar relatório contendo o balanço do exercício financeiro e os principais eventos do ano anterior, apresentando-o à Assembléia Geral Ordinária;
 6. Contratar funcionários ou auxiliares especializados, fixando seus vencimentos, podendo licenciá-los, suspendê-los ou demiti-los;
