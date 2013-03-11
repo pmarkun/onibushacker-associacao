@@ -96,7 +96,7 @@ Parágrafo Segundo  - Considerar-se-à convocada a Assembléia Geral no momento
 Parágrafo Terceiro - Toda e qualquer deliberação da Associação será tomada pundonorosamente por escrutínio público, sendo vedada qualquer forma de deliberação por voto secreto, sob pena de infração ao princípio da transparência sobre o qual se funda esta organização.
  
 ## ARTIGO 13 - DA DIRETORIA EXECUTIVA
-A Diretoria Executiva da Associação será constituída por 05 (cinco) membros, os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário, e 1o e 2o Tesoureiros. A Diretoria reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente ou pela maioria de seus membro.
+A Diretoria Executiva da Associação será constituída por 05 (cinco) membros, os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário, Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente ou pela maioria de seus membro.
 
 ## ARTIGO 14 - COMPETE À DIRETORIA EXECUTIVA
 1. Dirigir a Associação, de acordo com o presente estatuto, e administrar o patrimônio social.
@@ -126,6 +126,8 @@ Parágrafo Único – Compete ao Vice – Presidente, substituir legalmente o Pr
 2. Redigir a correspondência da Associação; 
 3. Manter e ter sob sua guarda o arquivo da Associação;
 4. Dirigir e supervisionar todo o trabalho da Secretaria.
+
+Parágrafo Único – Compete ao Coringa, substituir o Secretário, em suas faltas e impedimentos, assumindo o cargo em caso de vacância.
  
 ## ARTIGO 17 - COMPETE AO TESOUREIRO
 1. Manter, em estabelecimentos bancários, juntamente com o presidente, os  valores da Associação, podendo aplicá-los, ouvida a Diretoria Executiva;
@@ -135,7 +137,7 @@ Parágrafo Único – Compete ao Vice – Presidente, substituir legalmente o Pr
 5. Apresentar ao Conselho Fiscal, os balancetes semestrais e o balanço anual;
 6. Elaborar, anualmente, a relação dos bens da Associação, apresentando-a, quando solicitado, à Assembléia Geral.
 
-Parágrafo Único – Compete ao 2º Tesoureiro, substituir o 1º Tesoureiro, em suas faltas e impedimentos, assumindo o cargo em caso de vacância.
+Parágrafo Único – Compete ao Coringa, substituir o 1º Tesoureiro, em suas faltas e impedimentos, assumindo o cargo em caso de vacância.
 
 ## ARTIGO 18 - DO CONSELHO FISCAL
 O  Conselho Fiscal, que será composto por ao menos três membros, e tem por objetivo, indelegável, fiscalizar e dar parecer sobre todos os atos da Diretoria Executiva da Associação, com as seguintes atribuições;
@@ -163,12 +165,14 @@ Parágrafo Primeiro – Definida a justa causa, o diretor ou conselheiro será c
 Parágrafo Segundo – Após o decurso do prazo descrito no parágrafo anterior,  independentemente da apresentação de defesa, a representação será  submetida à Assembléia Geral Extraordinária, devidamente convocada para  esse fim, composta de associados contribuintes em dia com suas obrigações sociais, não podendo ela deliberar sem voto concorde de 2/3  (dois terços) dos presentes, sendo em primeira chamada, com a maioria absoluta dos associados e em segunda chamada, uma hora após a primeira,  com qualquer número de associados, onde será garantido o amplo direito  de defesa.
  
 ## ARTIGO 21 - DA RENÚNCIA
-Em caso renúncia de qualquer membro da Diretoria Executiva ou do Conselho Fiscal, o cargo será preenchido pelos suplentes.
+Em caso renúncia de qualquer membro da Diretoria Executiva o cargo será preenchido pelo Coringa.
 
 Parágrafo Primeiro – O pedido de renúncia se dará por escrito, devendo ser protocolado na secretaria da Associação, a qual, no prazo máximo de 60 (sessenta) dias, contado da data do protocolo, o submeterá à deliberação da Assembléia Geral;
 
 Parágrafo Segundo - Ocorrendo renúncia coletiva da Diretoria e Conselho Fiscal, o  Presidente renunciante, qualquer membro da Diretoria Executiva ou, em  último caso, qualquer dos associados, poderá convocar a Assembléia Geral Extraordinária, que elegerá uma comissão provisória composta por 05  (cinco) membros, que administrará a entidade e fará realizar novas eleições, no prazo máximo de 60 (sessenta) dias, contados da data de realização da referida assembléia. Os diretores e conselheiros eleitos, nestas condições, complementarão o mandato dos renunciantes.
- 
+
+Parágrafo Terceiro - Em caso de renúncia do Diretor Coringa um novo Coringa será apontado em reunião pela atual Diretoria Executiva.
+
 ## ARTIGO 22- DA REMUNERAÇÃO
 Os membros da Diretoria Executiva e do Conselho Fiscal não perceberão nenhum tipo de remuneração, de qualquer espécie ou natureza, pelo exercício das atividades atribuídas à diretoria executiva e ao conselho fiscal da Associação.
  
