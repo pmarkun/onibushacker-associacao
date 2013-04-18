@@ -43,8 +43,8 @@ São direitos dos associados quites com suas obrigações sociais:
 3. Comparecer por ocasião das eleições;
 4. Votar por ocasião das eleições;
  
-## ARTIGO 8º – DA DEMISSÃO DO ASSOCIADO
-É direito do associado demitir-se do quadro social, quando julgar necessário, manifestando seu pedido junto à Lista de emails da Associação, desde que não esteja em débito com suas obrigações associativas.
+## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
+É direito do associado retirar-se do quadro social, quando julgar necessário, manifestando seu pedido junto à Lista de emails da Associação, desde que não esteja em débito com suas obrigações associativas.
  
 ## ARTIGO 9º – DA EXCLUSÃO DO ASSOCIADO
 A perda da qualidade de associado será determinada pela Assembleia Geral, sendo admissível somente havendo justa causa, assim reconhecida em procedimento disciplinar, em que fique assegurado o  direito da ampla defesa, quando ficar comprovada a ocorrência de:
@@ -102,7 +102,7 @@ A Diretoria Executiva da Associação será constituída por 05 (cinco) membros,
 4. Elaborar o orçamento anual;
 5. Apresentar a Assembléia Geral, na reunião anual, o relatório de sua gestão e prestar contas referentes ao exercício anterior;
 6. Admitir pedido inscrição de associados;
-7. Acatar pedido de demissão voluntária de associados.
+7. Acatar pedido de retirada voluntária de associados.
 
 Parágrafo único - As decisões da diretoria deverão ser tomadas por maioria de votos,  devendo estar presentes, na reunião, a maioria absoluta de seus membros.
 
