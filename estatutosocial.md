@@ -34,7 +34,7 @@ Poderão filiar-se somente pessoas maiores de 18 (dezoito) anos, ou maiores de 1
 3. Zelar pelo bom nome da Associação;
 4. Defender o patrimônio e os interesses da Associação;
 5. Cumprir e fazer cumprir o regimento interno;
-6. Exercer com dedicação, probidade, pundonor, transparência e responsabilidade as funções para as quais forem indicados ou estiverem investidos.
+6. Exercer com dedicação, probidade, transparência e responsabilidade as funções para as quais forem indicados ou estiverem investidos.
 
 ## ARTIGO 7º - SÃO DIREITOS DOS ASSOCIADOS
 São direitos dos associados quites com suas obrigações sociais:
@@ -53,7 +53,6 @@ A perda da qualidade de associado será determinada pela Assembleia Geral, send
 1. Violação do estatuto social;
 2. Atividades contrárias às decisões das assembléias gerais;
 3. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos desta associação;
-4. Falta de pundonor;
 
 Parágrafo Primeiro – Definida a justa causa, o associado será devidamente notificado dos fatos a ele imputados, através de notificação por e-mail, para que apresente sua defesa prévia no prazo de 20 (vinte) dias a contar do recebimento da comunicação;
 
@@ -93,7 +92,7 @@ Parágrafo Primeiro -  As assembléias gerais poderão ser ordinárias ou extra
 
 Parágrafo Segundo  - Considerar-se-à convocada a Assembléia Geral no momento em que 1/5 dos associados se manifestarem, em resposta à mensagem - doravante  denominada 'thread' - proposta por quem a convocou ciência da convocação e anuir ao debate acerca da matéria proposta para deliberação.
 
-Parágrafo Terceiro - Toda e qualquer deliberação da Associação será tomada pundonorosamente por escrutínio público, sendo vedada qualquer forma de deliberação por voto secreto, sob pena de infração ao princípio da transparência sobre o qual se funda esta organização.
+Parágrafo Terceiro - Toda e qualquer deliberação da Associação será tomada por escrutínio público, sendo vedada qualquer forma de deliberação por voto secreto, sob pena de infração ao princípio da transparência sobre o qual se funda esta organização.
  
 ## ARTIGO 13 - DA DIRETORIA EXECUTIVA
 A Diretoria Executiva da Associação será constituída por 05 (cinco) membros, os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário, Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente ou pela maioria de seus membro.
