@@ -179,7 +179,7 @@ Os  associados, mesmo que investidos na condição de membros da diretoria exec
 ## ARTIGO 24 - DO PATRIMÔNIO SOCIAL
 O patrimônio da Associação será constituído e mantido por:
 1. Doações, legados, bens, direitos e valores adquiridos, e suas possíveis rendas e, ainda, pela arrecadação dos valores obtidos através da realização de festas e outros eventos, desde de que revertidos totalmente em beneficio da associação;
-2. Aluguéis de bens, imóveis e juros de títulos ou depósitos;
+2. Aluguéis de bens móveis, imóveis e juros de títulos ou depósitos;
 3. Prestação de serviços dentro das prerrogativas sociais da associação.
  
 ## ARTIGO 25 - DA VENDA
