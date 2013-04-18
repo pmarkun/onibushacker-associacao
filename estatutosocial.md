@@ -42,8 +42,6 @@ São direitos dos associados quites com suas obrigações sociais:
 2. Recorrer à Assembléia Geral contra qualquer ato da Diretoria ou do Conselho Fiscal;
 3. Comparecer por ocasião das eleições;
 4. Votar por ocasião das eleições;
-
-Parágrafo único: Nenhum associado poderá ser impedido de exercer direito ou função que lhe tenha sido legitimamente conferido, a não ser nos casos e pela forma previstos na lei ou no estatuto. (vide art. 58 Código Civil)
  
 ## ARTIGO 8º – DA DEMISSÃO DO ASSOCIADO
 É direito do associado demitir-se do quadro social, quando julgar necessário, manifestando seu pedido junto à Lista de emails da Associação, desde que não esteja em débito com suas obrigações associativas.
@@ -95,7 +93,7 @@ Parágrafo Segundo  - Considerar-se-à convocada a Assembléia Geral no momento
 Parágrafo Terceiro - Toda e qualquer deliberação da Associação será tomada por escrutínio público, sendo vedada qualquer forma de deliberação por voto secreto, sob pena de infração ao princípio da transparência sobre o qual se funda esta organização.
  
 ## ARTIGO 13 - DA DIRETORIA EXECUTIVA
-A Diretoria Executiva da Associação será constituída por 05 (cinco) membros, os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário, Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente ou pela maioria de seus membro.
+A Diretoria Executiva da Associação será constituída por 05 (cinco) membros, os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário, Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente ou pela maioria de seus membros.
 
 ## ARTIGO 14 - COMPETE À DIRETORIA EXECUTIVA
 1. Dirigir a Associação, de acordo com o presente estatuto, e administrar o patrimônio social.
