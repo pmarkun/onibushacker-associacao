@@ -2,7 +2,7 @@
 
 ## ARTIGO 1º  - DENOMINAÇÃO, SEDE, FINALIDADE E DURAÇÃO
 
-A Associação do Ônibus Hacker, neste estatuto designada, simplesmente,  como Associação Busão Hacker,  fundada em data de 10 de Março de 2013,  com sede e foro nesta cidade, na Rua Victor Manuel de Souza Lima, 328 apto 65 na cidade de São Carlos do Estado de São Paulo,  é uma associação de direito privado, constituída por tempo indeterminado, sem fins econômicos, de caráter organizacional, filantrópico, assistencial, promocional, recreativo e educacional, sem cunho partidário, com a finalidade de atender a todos que a ela se dirigirem, independente de classe social, nacionalidade, sexo, orientação sexual, raça, cor ou crença religiosa.
+A Associação do Ônibus Hacker, neste estatuto designada, simplesmente,  como Associação Busão Hacker,  fundada em data de 19 de Abril de 2013,  com sede e foro nesta cidade, na Rua Dorival Carneiro, 71, Jardim São Paulo - CEP 18271015 na cidade de Tatuí do Estado de São Paulo,  é uma associação de direito privado, constituída por tempo indeterminado, sem fins econômicos, de caráter organizacional, filantrópico, assistencial, promocional, recreativo e educacional, sem cunho partidário, com a finalidade de atender a todos que a ela se dirigirem, independente de classe social, nacionalidade, sexo, orientação sexual, raça, cor ou crença religiosa.
 
 ## ARTIGO 2º - SÃO PRERROGATIVAS DA ASSOCIAÇÃO:
 
@@ -205,7 +205,7 @@ A  Associação não distribui lucros, bonificações ou vantagens a qualquer t
 ## ARTIGO 30 - DAS OMISSÕES
 Os casos omissos no presente Estatuto serão resolvidos pela Assembléia Geral.
  
-São Paulo, 10 de Março de 2013
+Tatuí, 19 de Abril de 2013
 
  
  
