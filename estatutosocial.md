@@ -44,7 +44,7 @@ São direitos dos associados quites com suas obrigações sociais:
 4. Votar por ocasião das eleições;
  
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
-É direito do associado retirar-se do quadro social, quando julgar necessário, manifestando seu pedido junto à Lista de emails da Associação, desde que não esteja em débito com suas obrigações associativas.
+É direito do associado retirar-se do quadro social, quando julgar necessário, manifestando seu pedido junto à Lista de emails da Associação.
  
 ## ARTIGO 9º – DA EXCLUSÃO DO ASSOCIADO
 A perda da qualidade de associado será determinada pela Assembleia Geral, sendo admissível somente havendo justa causa, assim reconhecida em procedimento disciplinar, em que fique assegurado o  direito da ampla defesa, quando ficar comprovada a ocorrência de:
