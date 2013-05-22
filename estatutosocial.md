@@ -90,7 +90,9 @@ Parágrafo Primeiro -  As assembléias gerais poderão ser ordinárias ou extra
 
 Parágrafo Segundo  - Considerar-se-à convocada a Assembléia Geral no momento em que 1/5 dos associados se manifestarem, em resposta à mensagem - doravante  denominada 'thread' - proposta por quem a convocou ciência da convocação e anuir ao debate acerca da matéria proposta para deliberação.
 
-Parágrafo Terceiro - Toda e qualquer deliberação da Associação será tomada por escrutínio público, sendo vedada qualquer forma de deliberação por voto secreto, sob pena de infração ao princípio da transparência sobre o qual se funda esta organização.
+Parágrafo Terceiro -Toda e qualquer deliberação da Associação será tomada por maioria de votos dos Associados presentes exceto aqueles que digam respeito à destituição de administradores, alteração deste Estatuto Social e dissolução da Associação, para as quais o quorum de deliberação é de 2/3 de votos dos Associados presentes a reunião.
+
+Parágrafo Quarto - Toda e qualquer deliberação da Associação será tomada por escrutínio público, sendo vedada qualquer forma de deliberação por voto secreto, sob pena de infração ao princípio da transparência sobre o qual se funda esta organização.
  
 ## ARTIGO 13 - DA DIRETORIA EXECUTIVA
 A Diretoria Executiva da Associação será constituída por 05 (cinco) membros, os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário, Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente ou pela maioria de seus membros.
