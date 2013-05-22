@@ -134,13 +134,13 @@ Parágrafo Único – Compete ao Coringa, substituir o Secretário, em suas falt
 5. Apresentar ao Conselho Fiscal, os balancetes semestrais e o balanço anual;
 6. Elaborar, anualmente, a relação dos bens da Associação, apresentando-a, quando solicitado, à Assembléia Geral.
 
-Parágrafo Único – Compete ao Coringa, substituir o 1º Tesoureiro, em suas faltas e impedimentos, assumindo o cargo em caso de vacância.
+Parágrafo Único – Compete ao Coringa, substituir o Tesoureiro, em suas faltas e impedimentos, assumindo o cargo em caso de vacância.
 
 ## ARTIGO 18 - DO CONSELHO FISCAL
 O  Conselho Fiscal, que será composto por ao menos três membros, e tem por objetivo, indelegável, fiscalizar e dar parecer sobre todos os atos da Diretoria Executiva da Associação, com as seguintes atribuições;
 1. Examinar os livros de escrituração da Associação;
 2. Opinar e dar pareceres sobre balanços e relatórios financeiro e  contábil, submetendo-os a Assembléia Geral Ordinária ou Extraordinária;
-3. Requisitar ao 1º Tesoureiro, a qualquer tempo, a documentação comprobatória das operações econômico-financeiras realizadas pela Associação;
+3. Requisitar ao Tesoureiro, a qualquer tempo, a documentação comprobatória das operações econômico-financeiras realizadas pela Associação;
 4. Acompanhar o trabalho de eventuais auditores externos independentes;
 5. Convocar Extraordinariamente a Assembléia Geral.
 
